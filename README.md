@@ -7,12 +7,12 @@
 
 •⁠  ⁠🔭 I’m currently Studying at *ITM Skills University Btech Computer Science*
 
-•⁠  ⁠📫 How to reach me *yadav.sourabh9012@gmail.com*
+•⁠  ⁠📫 How to reach me *58adarshvimalsingh@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yadavsourabhx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yadavsourabhx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yadavsourabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yadavsourabh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adarsh-singh-8849162b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yadavsourabh" height="30" width="40" /></a>
 <a href="https://instagram.com/yadav.sourabhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yadav.sourabhh" height="30" width="40" /></a>
 </p>
 
