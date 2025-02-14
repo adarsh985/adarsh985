@@ -1,5 +1,4 @@
-
-![Salman Khan Race3](https://github.com/user-attachments/assets/01571c63-f7e9-42c5-9e7e-3953d66ecb3d)
+![compressed_output](https://github.com/user-attachments/assets/40bc1e89-2e58-44fd-89fb-4f40b85cc73f)![compressed_output](https://github.com/user-attachments/assets/06b72f39-9a68-4b66-8b74-c81ccb25d0c2)
 
 
 # 👋 Hey, I'm Adarsh Singh!
