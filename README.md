@@ -1,5 +1,4 @@
-![compressed_output](https://github.com/user-attachments/assets/40bc1e89-2e58-44fd-89fb-4f40b85cc73f)
-
+![resized_output](https://github.com/user-attachments/assets/1a84ef16-2b20-4944-9f32-b5b7e4c04536)
 
 # 👋 Hey, I'm Adarsh Singh!
 
