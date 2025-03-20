@@ -1,4 +1,4 @@
-![resized_output](https://github.com/user-attachments/assets/1a84ef16-2b20-4944-9f32-b5b7e4c04536)
+
 
 # 👋 Hey, I'm Adarsh Singh!
 
