@@ -7,7 +7,7 @@
 - 🌍 From **Mumbai, India** 🇮🇳.
 - 🤝 Open to **collaborating on open-source projects**.
 - 💡 Love learning new technologies and improving problem-solving skills.
-- 📩 Reach out via **[LinkedIn](https://www.linkedin.com/in/adarsh-singh-8849162b8/)** or [Email](mailto:your-email@example.com).
+- 📩 Reach out via **[LinkedIn](https://www.linkedin.com/in/adarsh-singh-8849162b8/)** or [Email](mailto:your-58adarshvimalsingh@gmail.com).
 
 ---
 
