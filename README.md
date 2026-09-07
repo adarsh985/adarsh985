@@ -2,7 +2,7 @@
 
 # Adarsh Singh
 
-### Builder | Learner | Open-source enthusiast
+### Full-stack developer in progress | Cloud computing learner
 
 ![Profile views](https://komarev.com/ghpvc/?username=adarsh985&label=profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/adarsh985?label=followers&style=flat&color=0e75b6)
@@ -15,17 +15,19 @@
 ## About me
 
 - Computer science learner focused on turning ideas into useful software.
-- Currently deepening my Java fundamentals and exploring full-stack development.
-- Building with JavaScript, Dart, HTML, and CSS.
+- Currently focused on **cloud computing** and **MERN full-stack development**.
+- Building with MongoDB, Express, React, Node.js, JavaScript, HTML, and CSS.
+- Practicing with Python, C++, Java, SQL, and MySQL across projects and coursework.
 - Based in Mumbai, India.
 - Open to thoughtful collaborations, beginner-friendly open source, and hackathon teams.
 
 ## Current focus
 
 ```text
-Java             [###########..] learning and problem solving
-Web development  [#########....] building practical interfaces
-Dart / Flutter   [#######......] experimenting with mobile apps
+Cloud computing  [#########....] learning deployment and scalable systems
+MERN stack       [###########..] building full-stack web applications
+Databases        [#########....] working with SQL and NoSQL data
+Problem solving  [########.....] practicing Python, C++, and Java
 Open source      [######.......] learning in public
 ```
 
@@ -50,15 +52,39 @@ Open source      [######.......] learning in public
 
 </div>
 
-## Tech I use
+## Skills and technologies
+
+### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
+
+### MERN and web development
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Databases and tools
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### Cloud learning path
+
+`Cloud fundamentals` `deployment` `APIs` `databases` `Linux` `Docker` `CI/CD`
 
 ## Let's connect
 
