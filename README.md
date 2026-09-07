@@ -23,16 +23,20 @@
 
 ## Current focus
 
-**Current focus:** MERN applications, REST APIs, SQL and NoSQL databases, Linux, Docker, deployment, and cloud fundamentals.
+MERN applications, REST APIs, SQL and NoSQL databases, Linux, Docker, deployment, and cloud fundamentals.
 
-## Featured work
+## Selected work
 
-| Project | What it is |
+| Project | Focus |
 | --- | --- |
-| [Funfact Gen](https://github.com/adarsh985/funfact-gen) | A small web project for discovering fun facts. |
-| [The Debbugers](https://github.com/adarsh985/The-Debbugers) | A collaborative project built while learning by doing. |
-| [AppAlchemists](https://github.com/adarsh985/AppAlchemists) | An application-focused team project. |
-| [Code](https://github.com/adarsh985/Code) | A growing collection of experiments and practice work. |
+| [globalmedx](https://github.com/adarsh985/globalmedx) | JavaScript web application project |
+| [portfoliio_ok](https://github.com/adarsh985/portfoliio_ok) | Portfolio website project |
+| [systemdesign](https://github.com/adarsh985/systemdesign) | System design learning and practice |
+| [devops](https://github.com/adarsh985/devops) | DevOps and infrastructure practice |
+| [CICD](https://github.com/adarsh985/CICD) | CI/CD learning project using JavaScript |
+| [Graph-QL](https://github.com/adarsh985/Graph-QL) | Python GraphQL project |
+
+See more in my [repositories](https://github.com/adarsh985?tab=repositories).
 
 <div align="center">
 
@@ -84,9 +88,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-singh-8849162b8/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adarsh985)
-
-<div align="center">
-
-### Building useful software and learning continuously.
-
-</div>
