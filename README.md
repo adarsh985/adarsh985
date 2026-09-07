@@ -4,6 +4,8 @@
 
 ### Full-stack developer in progress | Cloud computing learner
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+full-stack+web+experiences;Learning+cloud+deployment;Turning+ideas+into+working+software)](https://git.io/typing-svg)
+
 ![Profile views](https://komarev.com/ghpvc/?username=adarsh985&label=profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/adarsh985?label=followers&style=flat&color=0e75b6)
 ![GitHub stars](https://img.shields.io/github/stars/adarsh985?label=total%20stars&style=flat&color=f5a623)
@@ -30,6 +32,26 @@ Databases        [#########....] working with SQL and NoSQL data
 Problem solving  [########.....] practicing Python, C++, and Java
 Open source      [######.......] learning in public
 ```
+
+## What I like to build
+
+```text
+Frontend         responsive interfaces with clean user flows
+Backend          REST APIs, authentication, and business logic
+Data             SQL and NoSQL schemas that fit the product
+Cloud            deployable services with practical infrastructure
+Learning         small experiments that become better projects
+```
+
+## Developer roadmap
+
+- [x] Build projects with JavaScript, HTML, and CSS
+- [x] Practice Python, C++, Java, SQL, and MySQL
+- [x] Explore Dart and Flutter development
+- [ ] Ship a complete MERN application from database to frontend
+- [ ] Deploy a full-stack project to the cloud
+- [ ] Add Docker and CI/CD to a real project
+- [ ] Contribute regularly to open-source projects
 
 ## Featured work
 
@@ -85,6 +107,10 @@ Open source      [######.......] learning in public
 ### Cloud learning path
 
 `Cloud fundamentals` `deployment` `APIs` `databases` `Linux` `Docker` `CI/CD`
+
+## Open to
+
+`MERN projects` `cloud learning` `hackathons` `open source` `team projects`
 
 ## Let's connect
 
