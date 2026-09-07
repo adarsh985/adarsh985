@@ -25,8 +25,9 @@ jobs:
             dist/github-contribution-grid-snake.gif?color_snake=%230e75b6&color_dots=%23ebedf0%23c6e48b%2340c463%2330a14e%232161e0
 
       - name: Publish Snake assets
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
+          target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
