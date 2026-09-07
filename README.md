@@ -2,9 +2,7 @@
 
 # Adarsh Singh
 
-### Full-stack developer in progress | Cloud computing learner
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+full-stack+web+experiences;Learning+cloud+deployment;Turning+ideas+into+working+software)](https://git.io/typing-svg)
+### Full-stack developer | MERN stack and cloud computing
 
 ![Profile views](https://komarev.com/ghpvc/?username=adarsh985&label=profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/adarsh985?label=followers&style=flat&color=0e75b6)
@@ -16,42 +14,16 @@
 
 ## About me
 
-- Computer science learner focused on turning ideas into useful software.
-- Currently focused on **cloud computing** and **MERN full-stack development**.
-- Building with MongoDB, Express, React, Node.js, JavaScript, HTML, and CSS.
-- Practicing with Python, C++, Java, SQL, and MySQL across projects and coursework.
+- Computer science student focused on building practical web applications.
+- Currently developing skills in **MERN full-stack development** and **cloud computing**.
+- Interested in scalable APIs, database design, deployment, and clean user experiences.
+- Comfortable working with JavaScript, Python, C++, Java, SQL, and MySQL.
 - Based in Mumbai, India.
-- Open to thoughtful collaborations, beginner-friendly open source, and hackathon teams.
+- Open to internships, project collaborations, hackathons, and open-source work.
 
 ## Current focus
 
-```text
-Cloud computing  [#########....] learning deployment and scalable systems
-MERN stack       [###########..] building full-stack web applications
-Databases        [#########....] working with SQL and NoSQL data
-Problem solving  [########.....] practicing Python, C++, and Java
-Open source      [######.......] learning in public
-```
-
-## What I like to build
-
-```text
-Frontend         responsive interfaces with clean user flows
-Backend          REST APIs, authentication, and business logic
-Data             SQL and NoSQL schemas that fit the product
-Cloud            deployable services with practical infrastructure
-Learning         small experiments that become better projects
-```
-
-## Developer roadmap
-
-- [x] Build projects with JavaScript, HTML, and CSS
-- [x] Practice Python, C++, Java, SQL, and MySQL
-- [x] Explore Dart and Flutter development
-- [ ] Ship a complete MERN application from database to frontend
-- [ ] Deploy a full-stack project to the cloud
-- [ ] Add Docker and CI/CD to a real project
-- [ ] Contribute regularly to open-source projects
+**Current focus:** MERN applications, REST APIs, SQL and NoSQL databases, Linux, Docker, deployment, and cloud fundamentals.
 
 ## Featured work
 
@@ -104,13 +76,9 @@ Learning         small experiments that become better projects
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### Cloud learning path
+### Cloud and development interests
 
-`Cloud fundamentals` `deployment` `APIs` `databases` `Linux` `Docker` `CI/CD`
-
-## Open to
-
-`MERN projects` `cloud learning` `hackathons` `open source` `team projects`
+`Cloud fundamentals` `REST APIs` `deployment` `Linux` `Docker` `CI/CD` `database design`
 
 ## Let's connect
 
@@ -119,6 +87,6 @@ Learning         small experiments that become better projects
 
 <div align="center">
 
-### Building, breaking, learning, repeating.
+### Building useful software and learning continuously.
 
 </div>
