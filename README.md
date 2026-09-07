@@ -53,9 +53,9 @@ See more in my [repositories](https://github.com/adarsh985?tab=repositories).
 ## Contribution Snake
 
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adarsh985/adarsh985/output/github-contribution-grid-snake-dark.svg" />
-	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adarsh985/adarsh985/output/github-contribution-grid-snake.svg" />
-	<img alt="Animated Snake eating the contribution graph" src="https://raw.githubusercontent.com/adarsh985/adarsh985/output/github-contribution-grid-snake.svg" />
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adarsh985/adarsh985/output/github-contribution-grid-snake-dark.svg?v=1" />
+	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adarsh985/adarsh985/output/github-contribution-grid-snake.svg?v=1" />
+	<img alt="Animated Snake eating the contribution graph" src="https://raw.githubusercontent.com/adarsh985/adarsh985/output/github-contribution-grid-snake.svg?v=1" />
 </picture>
 
 The animation is generated automatically from my contribution calendar every day.
